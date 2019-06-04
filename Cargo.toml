@@ -5,3 +5,4 @@ authors = ["Kevin Aiken <Aiken.Kevin.M@gmail.com>"]
 edition = "2018"
 
 [dependencies]
+rust-crypto = "^0.2"
